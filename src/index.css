@@ -1,0 +1,13 @@
+* {
+    margin: 0 auto;
+    padding: 0;
+    box-shadow: border-box;
+}
+body {
+    font-size: 1.7rem;
+    font-family: 'Merriweather SANs',sans-serif;
+    /* background: #2c3e50; */
+    background: linear-gradient(to right, #ff47a1 0%, #ff9f4d 100%);
+    color: #ececec;
+    /* background-color: #ececec; */
+}
